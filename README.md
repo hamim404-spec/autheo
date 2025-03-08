@@ -7,7 +7,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://https://github.com/hamim404-spec/autheo.git
+git clone https://github.com/hamim404-spec/autheo.git
 ```
 
 ### 2. Go To Bot Directory
