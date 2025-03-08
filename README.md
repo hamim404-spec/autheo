@@ -1,18 +1,18 @@
-# 0G LABS Testnet Transaction 
+# Autheo Testnet Auto Transaction 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+AIRDROP+UHUY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+MIHAW+AIRDROP)](https://git.io/typing-svg)
 ## Daily Transaction Bot
 
 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/mudrickfarhan/0g-labs.git
+git clone https://https://github.com/hamim404-spec/autheo.git
 ```
 
 ### 2. Go To Bot Directory
 ```
-cd 0g-labs
+cd autheo
 ```
 
 ### 3. Instal Dependency
@@ -40,12 +40,7 @@ npm start
 
 ### Ethereum (EVM) Address:
 ```bash
-0xAc18D82280316485fac7CF5CCbE1DFb35128309d
-```
-
-### Solana Address:
-```bash
-9eSD2jJXdC7pGQq7vCEJ2R9pHPBNmHtUweasZfaNcuEx
+0xd43c44E516Ca3E85705F0aD4013e7B637f045290
 ```
 
 ## Your support means a lot for the development of this project! ❤️
