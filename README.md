@@ -1,2 +1,2 @@
 # autheo
-auto tx autheo
+jos
