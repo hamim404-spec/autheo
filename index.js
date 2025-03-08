@@ -1,8 +1,8 @@
 const { ethers } = require('ethers');
 require('dotenv').config();
 
-const RPC_URL = 'https://evmrpc-testnet.0g.ai';
-const CHAIN_ID = 16600;
+const RPC_URL = 'https://testnet-rpc2.autheo.com';
+const CHAIN_ID = 785;
 const provider = new ethers.JsonRpcProvider(RPC_URL, CHAIN_ID);
 
 function generateRandomAddress() {
