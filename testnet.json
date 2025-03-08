@@ -1,9 +1,9 @@
 [
   {
-    "name": "0g Chain Testnet",
-    "rpcUrl": "https://evmrpc-testnet.0g.ai",
-    "chainId": "16600",
-    "symbol": "A0GI",
-    "explorer": "https://chainscan-newton.0g.ai"
+    "name": "Autheo",
+    "rpcUrl": "https://testnet-rpc2.autheo.com",
+    "chainId": "785",
+    "symbol": "THEO",
+    "explorer": "https://testnet-explorer.autheo.com"
   }
 ]
