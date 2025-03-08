@@ -1,6 +1,6 @@
 # Autheo Testnet Auto Transaction 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+MIHAW+AIRDROP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+To+Mihaw+Airdrop)](https://git.io/typing-svg)
 ## Daily Transaction Bot
 
 
